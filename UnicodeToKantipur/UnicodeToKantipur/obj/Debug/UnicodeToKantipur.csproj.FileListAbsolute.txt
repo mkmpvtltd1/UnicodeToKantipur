@@ -1,5 +1,4 @@
 E:\Github Projects\UnicodeToKantipur\UnicodeToKantipur\UnicodeToKantipur\bin\Debug\UnicodeToKantipur.dll
 E:\Github Projects\UnicodeToKantipur\UnicodeToKantipur\UnicodeToKantipur\bin\Debug\UnicodeToKantipur.pdb
-E:\Github Projects\UnicodeToKantipur\UnicodeToKantipur\UnicodeToKantipur\obj\Debug\UnicodeToKantipur.csprojResolveAssemblyReference.cache
 E:\Github Projects\UnicodeToKantipur\UnicodeToKantipur\UnicodeToKantipur\obj\Debug\UnicodeToKantipur.dll
 E:\Github Projects\UnicodeToKantipur\UnicodeToKantipur\UnicodeToKantipur\obj\Debug\UnicodeToKantipur.pdb

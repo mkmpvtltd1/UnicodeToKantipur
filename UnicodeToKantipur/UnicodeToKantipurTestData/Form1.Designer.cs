@@ -71,7 +71,6 @@
             this.MaximizeBox = false;
             this.Name = "frmUnicodeToKantipur";
             this.ShowIcon = false;
-            this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Unicode To Kantipur";
             this.ResumeLayout(false);
