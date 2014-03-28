@@ -31,6 +31,7 @@
             this.txtUnicodeData = new System.Windows.Forms.RichTextBox();
             this.txtKatifurFontData = new System.Windows.Forms.RichTextBox();
             this.btnConvert = new System.Windows.Forms.Button();
+            this.txtKantipur = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
             // txtUnicodeData
@@ -59,11 +60,21 @@
             this.btnConvert.UseVisualStyleBackColor = true;
             this.btnConvert.Click += new System.EventHandler(this.btnConvert_Click);
             // 
+            // txtKantipur
+            // 
+            this.txtKantipur.Font = new System.Drawing.Font("Kozuka Gothic Pro B", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtKantipur.Location = new System.Drawing.Point(12, 311);
+            this.txtKantipur.Name = "txtKantipur";
+            this.txtKantipur.Size = new System.Drawing.Size(494, 116);
+            this.txtKantipur.TabIndex = 3;
+            this.txtKantipur.Text = "";
+            // 
             // frmUnicodeToKantipur
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(518, 301);
+            this.ClientSize = new System.Drawing.Size(515, 438);
+            this.Controls.Add(this.txtKantipur);
             this.Controls.Add(this.btnConvert);
             this.Controls.Add(this.txtKatifurFontData);
             this.Controls.Add(this.txtUnicodeData);
@@ -82,6 +93,7 @@
         private System.Windows.Forms.RichTextBox txtUnicodeData;
         private System.Windows.Forms.RichTextBox txtKatifurFontData;
         private System.Windows.Forms.Button btnConvert;
+        private System.Windows.Forms.RichTextBox txtKantipur;
     }
 }
 

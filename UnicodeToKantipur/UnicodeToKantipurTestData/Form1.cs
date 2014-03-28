@@ -23,6 +23,8 @@ namespace UnicodeToKantipurTestData
             string unicode = txtUnicodeData.Text;
             string kantipur = UnicodeToKantipur.ConvertUnicode(unicode);
             txtKatifurFontData.Text = kantipur;
+            txtKantipur.Text = kantipur;
+            txtKantipur.Font = new Font("Kantipur", 12, FontStyle.Regular);
         }
     }
 }
